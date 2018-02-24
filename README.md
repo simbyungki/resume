@@ -1,5 +1,5 @@
 # 심병기 Sim Byungki
-**UI Developer, Web Publisher : HTML, CSS, Javascript(jQuery)**
+**UI Developer / Web Publisher : HTML, CSS, Javascript(jQuery)**
 - email : dung8524@gmail.com
 - github : https://github.com/simbyungki
 
@@ -9,8 +9,16 @@
 ## 경력
 ### PIXELAB
 - 아래 명시된 기간 외에는 **UI개발 프리랜서로 활동**하며 크고 작은 프로젝트 경험을 하였습니다.
-> - <a href="https://blog.lgchem.com/" target="_blank">LG화학 공식블로그 (케미토피아)</a> 리뉴얼(반응형) 구축 (UI개발, 90% 참여)
-> - 
+> - LG화학 공식블로그 (케미토피아) 리뉴얼(반응형) 구축 (UI개발, 90% 참여)
+> - 단희부동산연구소 웹사이트 구축 (UI개발, 100% 참여)
+> - 프린터스(프린트 대여 서비스) 웹사이트 구축 (UI개발, 100% 참여)
+> - 미스터딜러 (중고차 매매 서비스) 웹사이트 구축 (UI개발, 100% 참여)
+> - SYSMETIC (주식 트레이딩 서비스) 웹사이트 구축 (UI개발, 100% 참여)
+> - 서울시 자원봉사센터 웹사이트 웹사이트 리뉴얼 구축 (UI개발, 100% 참여)
+> - 슈퍼갈땐슈퍼맨 Hybrid App(app web), 웹사이트 구축 (UI개발, 100% 참여)
+> - 주식의정석(주식 트레이딩 서비스) Hybrid App(app web) (UI개발, 100% 참여)
+> - 우리펜션 모바일 웹사이트 구축 (UI개발, 100% 참여)
+> ...
 
 ### (주)PCN
 - 2017.12 ~ 현재 **LG U+홈서비스 운영 퍼블리싱 담당**
