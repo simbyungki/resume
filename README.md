@@ -14,8 +14,8 @@
   - pure, core javascript와 Front-end기술에 관심이 많아 학습하고 있습니다.
   - 올해 초부터 기술블로그 운영과 github 하루 1commit을 실천하려 노력 중 입니다.
   - 개인프로젝트를 **진행 중**입니다. 
-    - 최근 당첨금액 및 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">lotto_king</a> 
-    - 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">ui_modules</a>
+    - 1. 최근 당첨금액 및 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">lotto_king</a> 
+    - 2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">ui_modules</a>
 - evernote, trello ,google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
 - 디자인에도 관심이 많아 여러 디자인 레퍼런스 사이트를 돌아 보는 것이 취미 중 하나 입니다.
 - *2015년 2월 결혼하였고, 현재 아내의 뱃속에 아이가 무럭무럭 자라고 있습니다.*
@@ -97,5 +97,7 @@
 
 ***
 
-## 기타
-- 함께 
+여기까지 읽어주셔서 감사합니다.
+제게 더 궁금하신 부분 있으시면 dung8524@gmail.com 으로 연락주세요.
+~~24시간 대기중입니다.~~
+감사합니다. :)
