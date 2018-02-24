@@ -1,15 +1,20 @@
 # 심병기 Sim Byungki
-**UI Developer / Web Publisher : HTML, CSS, Javascript(jQuery)**
+**UI Developer / Web Publisher : HTML, CSS, Javascript(jQuery)**  
+  
+![심병기](/images/simbyungki_small.jpg) 
+- birth : 1986.01.30 
 - email : dung8524@gmail.com
 - github : https://github.com/simbyungki
-
 ***
 
 ## 소개
-- **
+- 다양한 web, mobile, 반응형 웹 구축 및 운영 경험(UI개발)이 있습니다.
+- core javascript와 Front-end기술에 관심이 많아 학습 중 입니다.
+- 올해 초부터 기술블로그 운영과 github 1일1커밋을 계획하고 있습니다.
+- evernote, trello ,google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
 - *김포 풍무동성당 마니피캇 성가대단원으로 활동 중입니다.*
-- *고등학교 동창회장을 맡았었습니다.*
-
+- *2016, 2017년 고등학교 동창회장을 맡았었습니다.*
+- *육군(기갑) 부사관 만기 전역하였습니다.*
 ***
 
 ## 경력
@@ -81,3 +86,7 @@
 - 'ActiveX 대체기술 & 웹표준 실무 적용기술' 세미나  *2011.10*
 - '웹표준&모바일 UI디자인' 과정 수료(주말반)  *2011.04*
 - 홍시디자인학원 멀티미디어웹 과정  *2010.09 - 2011.01*
+
+***
+
+## 기타사항
