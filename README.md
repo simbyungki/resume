@@ -1,8 +1,8 @@
 # 심병기 Sim Byungki
-**UI Developer / Web Publisher : HTML, CSS, Javascript(jQuery)**  
-  
-![심병기](/images/simbyungki_small.jpg) 
-- birth : 1986.01.30 
+**UI Developer / Web Publisher : HTML, CSS, Javascript(jQuery)**
+
+![심병기](/images/simbyungki_small.jpg)
+- birth : 1986.01.30
 - hobby : 캠핑, 게임, 웹서핑..
 - email : dung8524@gmail.com
 - github : https://github.com/simbyungki
@@ -12,13 +12,15 @@
 - 다양한 web, mobile, 반응형 웹 구축 및 운영 경험(UI개발)이 있습니다.
 - **열심히 합니다.**
   - pure, core javascript와 Front-end기술에 관심이 많아 학습하고 있습니다.
+    - <a href="https://github.com/simbyungki/javascript_definitive_guide/">자바스크립트 완벽 가이드</a>
   - 올해 초부터 기술블로그 운영과 github 하루 1commit을 실천하려 노력 중 입니다.
-  - 개인프로젝트를 **진행 중**입니다. 
-    - 1. 최근 당첨금액 및 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">lotto_king</a> 
+  - 개인프로젝트를 **진행 중**입니다.
+    - 1. 최근 당첨금액 및 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">lotto_king</a>
     - 2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">ui_modules</a>
+<!--    - 3. keyword : <a href="https://simbyungki.github.io/myhome/dist/index.html">keywords</a>-->
 - evernote, trello ,google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
 - 디자인에도 관심이 많아 여러 디자인 레퍼런스 사이트를 돌아 보는 것이 취미 중 하나 입니다.
-- *2015년 2월 결혼하였고, 현재 아내의 뱃속에 아이가 무럭무럭 자라고 있습니다.*
+- *2015년 2월 결혼하였고, 현재 아내의 뱃속에 아이(**은총이**)가 무럭무럭 자라고 있습니다.*
 - *김포 풍무동성당 마니피캇 성가대단원으로 활동 중입니다.*
 - *2016, 2017년 고등학교 동창회장을 맡았었습니다.*
 - *육군(기갑) 부사관 만기 전역하였습니다.*
@@ -50,9 +52,9 @@
 > - MONSTAY 웹사이트 리뉴얼(반응형) 구축 (UI개발 100% 참여, UI/UX 기획 20% 참여)
 > - MONSTAY 관리자 구축 (UI개발 100% 참여, UI/UX 기획 20% 참여)
 
-### (주)그린웍스  
+### (주)그린웍스
 - 2014.03 ~ 2015.05 : **웹개발2팀 / 대리 (UI개발 담당)**
-> 자사 서비스인 XGOLF 골프 부킹 **웹서비스의 웹표준화 작업 및 접근성 개선 작업, 고객사 이벤트 및 웹사이트 운영 업무를 담당**하였습니다. 
+> 자사 서비스인 XGOLF 골프 부킹 **웹서비스의 웹표준화 작업 및 접근성 개선 작업, 고객사 이벤트 및 웹사이트 운영 업무를 담당**하였습니다.
 > - XGOLF웹사이트 표준화 및 접근성 개선 작업 (UI개발, 100%참여)
 > - XGOLF Hybrid APP 구축 (app web UI개발, 100%참여)
 > - 카드 고객사 웹사이트 운영
@@ -68,7 +70,7 @@
 
 ### (주)DIT
 - 2011.01 ~ 2013.02 : **사업기획부 / 웹팀 / 연구원 (웹디자인 및 웹퍼블리싱 담당)**
-> 노루페인트의 전산실격의 회사로 **노루페인트 관계사 웹사이트 구축 및 운영의 디자인 및 UI개발 업무를 담당**하였고 자사 서비스인 제안관리시스템, SantaCloud의 디자인 및 UI개발 업무를 담당하였습니다.  
+> 노루페인트의 전산실격의 회사로 **노루페인트 관계사 웹사이트 구축 및 운영의 디자인 및 UI개발 업무를 담당**하였고 자사 서비스인 제안관리시스템, SantaCloud의 디자인 및 UI개발 업무를 담당하였습니다.
 > - 노루페인트 웹사이트 메인 리뉴얼 (디자인, 플래시 애니메이션, 웹퍼블리싱 100%)
 > - 노루페인트 계열사 웹사이트 운영
 > - 제안관리시스템 구축 (농심율촌화학, 세브란스병원, 롯데건설) (디자인, 웹퍼블리싱 80%)
@@ -97,8 +99,8 @@
 
 ***
 
-여기까지 읽어주셔서 감사합니다.  
-제게 더 궁금하신 부분 있으시면 dung8524@gmail.com 으로 연락주세요.  
-~~24시간 대기중입니다.~~  
-감사합니다. :)  
+여기까지 읽어주셔서 감사합니다.
+제게 더 궁금하신 부분 있으시면 dung8524@gmail.com 으로 연락주세요.
+~~24시간 대기중입니다.~~
+감사합니다. :)
 > 2018.02
