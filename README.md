@@ -13,7 +13,7 @@
 - **열심히 합니다.**
   - javascript와 Front-end기술에 관심이 많아 여러가지 경로와 방법으로 학습하고 있습니다.
     - <a href="https://github.com/simbyungki/javascript_definitive_guide" target="_blank">자바스크립트 완벽가이드 처음부터 읽고 정리해보기</a>
-  - 기술블로그 운영을 준비 중이며, github 1day 1commit을 실천해려고 합니다.
+  - 기술블로그 운영을 준비 중이며, 개인프로젝트를 통한 github 1day 1commit을 실천해보려 합니다.
   - **진행 중**입니다. 
     - 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/" target="_blank">ui_modules</a>
 - evernote, trello ,google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
