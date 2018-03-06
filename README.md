@@ -14,11 +14,12 @@
   - pure, core javascript와 Front-end기술에 관심이 많아 학습하고 있습니다.
     - <a href="https://github.com/simbyungki/javascript_definitive_guide/">자바스크립트 완벽 가이드</a>
   - 올해 초부터 기술블로그 운영과 github 하루 1commit을 실천하려 노력 중 입니다.
-  - 개인프로젝트를 **진행 중**입니다.
+  - 간단한 프로젝트를 **진행 중**입니다.
     - 1. 최근 당첨금액 및 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">lotto_king</a>
     - 2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">ui_modules</a>
 <!--    - 3. keyword : <a href="https://simbyungki.github.io/myhome/dist/index.html">keywords</a>-->
-- evernote, trello ,google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
+    - 3. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/">updown</a>
+- evernote, trello, google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
 - 디자인에도 관심이 많아 여러 디자인 레퍼런스 사이트를 돌아 보는 것이 취미 중 하나 입니다.
 - *2015년 2월 결혼하였고, 현재 아내의 뱃속에 아이(**은총이**)가 무럭무럭 자라고 있습니다.*
 - *김포 풍무동성당 마니피캇 성가대단원으로 활동 중입니다.*
@@ -41,7 +42,7 @@
 > - ...
 
 ### (주)PCN
-- 2017.12 ~ 현재 : **LG U+홈서비스 운영 퍼블리싱 담당**
+- 2017.12 ~ 현재 : **UI기술팀 / 프리랜서 (UI개발 담당)**
 > LG U+웹사이트 > 홈서비스 파트 **웹퍼블리싱 운영 업무**를 담당하고 있습니다.
 > - 서비스 운영 UI개선 작업 (UI개발, 100%참여)
 > - 정기 이벤트 및 U+홈서비스 운영
