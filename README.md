@@ -15,7 +15,7 @@
     - <a href="https://github.com/simbyungki/javascript_definitive_guide/">자바스크립트 완벽 가이드</a>
   - 올해 초부터 ~~기술블로그 운영(예정)과~~ github 하루 1commit을 실천하려 노력 중 입니다.
   - 간단한 프로젝트를 **진행 중**입니다.
-    1. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/">updown</a>(<a href="https://github.com/simbyungki/updown">README</a>)
+    1. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/">updown</a> (<a href="https://github.com/simbyungki/updown">README</a>)
     2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">ui_modules</a>
     3. 최근 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">lotto_king</a>
 <!--    - 3. keyword : <a href="https://simbyungki.github.io/myhome/dist/index.html">keywords</a>-->
