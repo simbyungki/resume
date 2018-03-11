@@ -6,6 +6,7 @@
 - hobby : 캠핑, 게임, 웹서핑..
 - email : dung8524@gmail.com
 - github : https://github.com/simbyungki
+- projects : http://dung8524.dothome.co.kr/project/portfolio.html
 ***
 
 ## 소개
@@ -13,7 +14,7 @@
 - **열심히 합니다.**
   - javascript와 Front-end기술에 관심이 많아 학습하고 있습니다.
     - <a href="https://github.com/simbyungki/javascript_definitive_guide/">자바스크립트 완벽 가이드</a>
-  - 올해 초부터 ~~기술블로그 운영(예정)과~~ github 하루 1commit을 실천하려 노력 중 입니다.
+  - 올해 초부터 ~~기술블로그 운영(예정)과~~ 매일 github commit을 하려 노력 중 입니다.
   - 간단한 프로젝트를 **진행 중**입니다.
     1. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/">updown</a> (<a href="https://github.com/simbyungki/updown">README</a>)
     2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">ui_modules</a>
