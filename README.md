@@ -12,14 +12,15 @@
 ## 소개
 - 다양한 web, mobile, 반응형 웹 구축 및 운영 경험(UI개발)이 있습니다.
 - **열심히 합니다.**
-  - javascript와 Front-end기술에 관심이 많아 학습하고 있습니다.
+  - JavaScript와 Front-end기술에 관심이 많아 학습하고 있습니다.
     - <a href="https://github.com/simbyungki/javascript_definitive_guide/">자바스크립트 완벽 가이드</a>
-  - 올해 초부터 ~~기술블로그 운영(예정)과~~ 매일 github commit을 하려 노력 중 입니다.
-  - 간단한 프로젝트를 **진행 중**입니다.
+  - ~~기술블로그 운영(예정)과~~ 매일 코딩을 하려 노력 중 입니다.
+  - 쉬는 시간을 활용하여 간단한 프로젝트를 **진행 중**입니다.
     1. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/">updown</a> (<a href="https://github.com/simbyungki/updown">README</a>)
     2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">ui_modules</a>
     3. 최근 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">lotto_king</a>
-<!--    - 3. keyword : <a href="https://simbyungki.github.io/myhome/dist/index.html">keywords</a>-->
+    <!--
+    - 3. keyword : <a href="https://simbyungki.github.io/myhome/dist/index.html">keywords</a>-->
     
 - evernote, trello, google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
 - 디자인에도 관심이 많아 여러 디자인 레퍼런스 사이트를 돌아 보는 것이 취미 중 하나 입니다.
