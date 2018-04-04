@@ -6,6 +6,7 @@
 - hobby : 캠핑, 게임, 웹서핑..
 - email : dung8524@gmail.com
 - github : https://github.com/simbyungki
+- projects : http://dung8524.dothome.co.kr/project/portfolio.html
 ***
 
 ## 소개
@@ -46,7 +47,7 @@
 - 2017.12 ~ 현재 : **UI기술팀 / 프리랜서 (UI개발 담당)**
 > LG U+웹사이트 > 홈서비스 파트 **웹퍼블리싱 운영 업무**를 담당하고 있습니다.
 > - 서비스 운영 UI개선 작업 (UI개발, 100%참여)
-> - 정기 이벤트 및 U+홈서비스 운영
+> - LG U+홈서비스 운영
 
 ### (주)지냄
 - 2016.04 ~ 2016.10 : **개발팀 / 대리 (UI개발 담당)**
