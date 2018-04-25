@@ -17,12 +17,10 @@
   - ~~기술블로그 운영(예정)과~~ 매일 코딩을 하려 노력 중 입니다.
   - 쉬는 시간을 활용하여 간단한 프로젝트를 **진행 중**입니다.
     1. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/">updown</a> (<a href="https://github.com/simbyungki/updown">README</a>)
-    2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">UI_modules</a>
-    3. 최근 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">Lotto King</a>
-    <!--
-    - 3. keyword : <a href="https://simbyungki.github.io/myhome/dist/index.html">keywords</a>-->
-    
-- Evernote, Tello, Google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
+    2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">ui_modules</a>
+<!-- 3. 최근 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">lotto_king</a> -->
+<!--    - 3. keyword : <a href="https://simbyungki.github.io/myhome/dist/index.html">keywords</a>-->
+- evernote, trello, google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
 - 디자인에도 관심이 많아 여러 디자인 레퍼런스 사이트를 돌아 보는 것이 취미 중 하나 입니다.
 - *2015년 2월 결혼하였고, 현재 아내의 뱃속에 아이(**은총이**)가 무럭무럭 자라고 있습니다.*
 - *김포 풍무동성당 마니피캇 성가대단원으로 활동 중입니다.*
@@ -51,11 +49,18 @@
 > - 정기 이벤트 및 고객사 대응
 > - 신규 폰 출시 사전예약 마이크로 사이트 구축
 
+### (주)프레임아웃
+- 2018.04 ~ 현재 : **LG U+Shop TFT / 웹퍼블리싱 PL **
+> LG U+웹사이트 > U+Shop 파트 **웹퍼블리싱 운영 업무**를 담당하고 있습니다.
+> - 서비스 운영 UI개선 작업
+> - 정기 이벤트 및 고객사 대응
+> - 신규 폰 출시 사전예약 마이크로 사이트 구축
+
 ### (주)PCN
 - 2017.12 ~ 2018.04 : **UI기술팀 / 프리랜서 (UI개발 담당)**
 > LG U+웹사이트 > 홈서비스 파트 **웹퍼블리싱 운영 업무**를 담당하고 있습니다.
 > - 서비스 운영 UI개선 작업 (UI개발, 100%참여)
-> - 정기 이벤트 및 U+홈서비스 운영
+> - LG U+홈서비스 운영
 
 ### (주)지냄
 - 2016.04 ~ 2016.10 : **개발팀 / 대리 (UI개발 담당)**
