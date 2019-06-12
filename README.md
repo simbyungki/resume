@@ -3,32 +3,33 @@
 
 ![심병기](/images/simbyungki_small.jpg)
 - birth : 1986.01.30
-- hobby : 캠핑, 게임, 웹서핑..
 - email : dung8524@gmail.com
 - github : https://github.com/simbyungki
-- projects : http://dung8524.dothome.co.kr/project/portfolio.html
 ***
 
 ## 소개
 - 다양한 web, mobile, 반응형 웹 구축 및 운영 경험(UI개발)이 있습니다.
-- **열심히 합니다.**
   <!--
   - <code>JavaScript</code>와 Front-end기술에 관심이 많아 학습하고 있습니다.
     - <a href="https://github.com/simbyungki/javascript_definitive_guide/">자바스크립트 완벽 가이드</a>
   
   - ~~기술블로그 운영(예정)과~~ 매일 코딩을 하려 노력 중 입니다.
   -->
-  - 간단한 프로젝트를 **진행 중**입니다.
-    1. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/">updown</a> (<a href="https://github.com/simbyungki/updown">README</a>)
-    2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/">ui_modules</a>
-    3. 최근 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/">lotto_king</a>
-<!--    - 3. keyword : <a href="https://simbyungki.github.io/myhome/dist/index.html">keywords</a>-->
+- 간단한 프로젝트를 **진행 중**입니다.
+  1. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/" target="_blank">updown</a> (<a href="https://github.com/simbyungki/updown" target="_blank">README</a>)
+  2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/" target="_blank">ui_modules</a>
+  3. 간단한 필요 대출액 계산기(**ing**) : <a href="https://simbyungki.github.io/mini_project/calculator/index.html" target="_blank">대출조회기</a>
+  4. BMI계산기(**ing**) : <a href="https://simbyungki.github.io/mini_project/standard_weight/" target="_blank">BMI계산기</a>
+  5. 영화목록보기(React study) (**ing**) : <a href="https://github.com/simbyungki/rank_movie" target="_blank">영화목록보기(React study)</a>
+  <!--3. 최근 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/" target="_blank">lotto_king</a>-->
 - evernote, trello, google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
 - 디자인에도 관심이 많아 여러 디자인 레퍼런스 사이트를 돌아 보는 것이 취미 중 하나 입니다.
-- *2015년 2월 결혼하였고, 현재 아내의 뱃속에 아이(**은총이**)가 무럭무럭 자라고 있습니다.*
+- *2015년 2월 결혼하였고, 현재 1명의 딸이 있습니다.*
+<!--
 - *김포 풍무동성당 마니피캇 성가대단원으로 활동 중입니다.*
 - *2016, 2017년 고등학교 동창회장을 맡았었습니다.*
 - *육군(기갑) 부사관 만기 전역하였습니다.*
+-->
 ***
 
 ## 경력
@@ -47,9 +48,15 @@
 > - 우리펜션 모바일 웹사이트 구축 (UI개발, 100% 참여)
 > - ...
 
+### (주)피투피시스템즈
+- 2018.11 ~ 2019.06 : **플랫폼기획팀 / 대리 (UI개발 담당)**
+> 토즈 웹사이트, 백오피스(원스) **웹퍼블리싱 운영 업무**를 담당하였습니다.
+> - 지점 회원가입자동화 시스템 구축
+> - 지점 좌석배치도 태블릿 view 안정화
+> - 토즈 지하철노선도 view 개선
 ### (주)프레임아웃
 - 2017.12 ~ 2018.10 : **LG U+Shop TFT / 웹퍼블리싱 운영파트 PL**
-> LG U+웹사이트 > U+Shop 파트 **웹퍼블리싱 운영 업무**를 담당하고 있습니다.
+> LG U+웹사이트 > U+Shop 파트 **웹퍼블리싱 운영 업무**를 담당하였습니다.
 > - 서비스 운영 UI개선 작업
 > - 정기 이벤트 및 고객사 대응
 > - 웹퍼블리싱 운영파트 관리 
@@ -119,4 +126,4 @@
 제게 더 궁금하신 부분 있으시면 dung8524@gmail.com 으로 연락주세요.  
 ~~24시간 대기중입니다.~~  
 감사합니다. :)  
-> 2018.04
+> 2019.06
