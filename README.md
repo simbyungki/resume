@@ -22,7 +22,7 @@
   4. BMI계산기(**ing**) : <a href="https://simbyungki.github.io/mini_project/standard_weight/" target="_blank">BMI계산기</a>
   5. 영화목록보기(React study) (**ing**) : <a href="https://github.com/simbyungki/rank_movie" target="_blank">영화목록보기(React study)</a>
   <!--3. 최근 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/" target="_blank">lotto_king</a>-->
-- evernote, trello, google keep을 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
+- evernote, trello를 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
 - 디자인에도 관심이 많아 여러 디자인 레퍼런스 사이트를 돌아 보는 것이 취미 중 하나 입니다.
 - *2015년 2월 결혼하였고, 현재 1명의 딸이 있습니다.*
 <!--
@@ -48,6 +48,10 @@
 > - 우리펜션 모바일 웹사이트 구축 (UI개발, 100% 참여)
 > - ...
 
+### (주)프레임아웃
+- 2019.07 ~ 2019.09 : **LG U+ TFT 프리랜서**
+> - U+ 글로벌로밍 선불유심 등록 5개국어 (모바일) (UI개발, 100%참여)
+> - SAMSUNG Galaxy Note10 사전예약 (매장용)
 ### (주)피투피시스템즈
 - 2018.11 ~ 2019.06 : **플랫폼기획팀 / 대리 (UI개발 담당)**
 > 토즈 웹사이트, 백오피스(원스) **웹퍼블리싱 운영 업무**를 담당하였습니다.
