@@ -13,7 +13,7 @@
   <!--
   - <code>JavaScript</code>와 Front-end기술에 관심이 많아 학습하고 있습니다.
     - <a href="https://github.com/simbyungki/javascript_definitive_guide/">자바스크립트 완벽 가이드</a>
-  
+  -->
 - 기술블로그 운영과 매일 코딩을 하려 노력 중 입니다.
   -->
 - 간단한 프로젝트를 **진행 중**입니다.
