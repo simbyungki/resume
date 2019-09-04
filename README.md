@@ -5,6 +5,7 @@
 - birth : 1986.01.30
 - email : dung8524@gmail.com
 - github : https://github.com/simbyungki
+- blog : https://code-study.tistory.com/
 ***
 
 ## 소개
@@ -13,17 +14,18 @@
   - <code>JavaScript</code>와 Front-end기술에 관심이 많아 학습하고 있습니다.
     - <a href="https://github.com/simbyungki/javascript_definitive_guide/">자바스크립트 완벽 가이드</a>
   
-  - ~~기술블로그 운영(예정)과~~ 매일 코딩을 하려 노력 중 입니다.
+- 기술블로그 운영과 매일 코딩을 하려 노력 중 입니다.
   -->
 - 간단한 프로젝트를 **진행 중**입니다.
-  1. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/" target="_blank">updown</a> (<a href="https://github.com/simbyungki/updown" target="_blank">README</a>)
-  2. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/" target="_blank">ui_modules</a>
-  3. 간단한 필요 대출액 계산기(**ing**) : <a href="https://simbyungki.github.io/mini_project/calculator/index.html" target="_blank">대출조회기</a>
-  4. BMI계산기(**ing**) : <a href="https://simbyungki.github.io/mini_project/standard_weight/" target="_blank">BMI계산기</a>
-  5. 영화목록보기(React study) (**ing**) : <a href="https://github.com/simbyungki/rank_movie" target="_blank">영화목록보기(React study)</a>
+  1. 코드스터디 블로그 : <a href="https://code-study.tistory.com/" target="_blank">코드스터디 블로그</a>
+  2. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/" target="_blank">updown</a> (<a href="https://github.com/simbyungki/updown" target="_blank">README</a>)
+  3. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/" target="_blank">ui_modules</a>
+  4. 간단한 필요 대출액 계산기(**ing**) : <a href="https://simbyungki.github.io/mini_project/calculator/index.html" target="_blank">대출조회기</a>
+  5. BMI계산기(**ing**) : <a href="https://simbyungki.github.io/mini_project/standard_weight/" target="_blank">BMI계산기</a>
+  6. 영화목록보기(React study) (**ing**) : <a href="https://github.com/simbyungki/rank_movie" target="_blank">영화목록보기(React study)</a>
   <!--3. 최근 당첨번호 추출 및 로또 랜덤번호 제공(**ing**) : <a href="https://simbyungki.github.io/lotto_king/" target="_blank">lotto_king</a>-->
-- evernote, trello를 적극 활용하여 업무 및 개인 일정 / 자료 관리를 하고 있습니다.
-- 디자인에도 관심이 많아 여러 디자인 레퍼런스 사이트를 돌아 보는 것이 취미 중 하나 입니다.
+- Evernote, Trello, Google Calendar를 적극 활용하여 업무 및 개인 일정/자료 관리를 하고 있습니다.
+- 디자인에도 관심이 많아 디자인 레퍼런스 사이트를 돌아 보는 것이 취미 중 하나 입니다.
 - *2015년 2월 결혼하였고, 현재 1명의 딸이 있습니다.*
 <!--
 - *김포 풍무동성당 마니피캇 성가대단원으로 활동 중입니다.*
