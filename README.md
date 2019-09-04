@@ -14,10 +14,9 @@
   - <code>JavaScript</code>와 Front-end기술에 관심이 많아 학습하고 있습니다.
     - <a href="https://github.com/simbyungki/javascript_definitive_guide/">자바스크립트 완벽 가이드</a>
   -->
-- 기술블로그 운영과 매일 코딩을 하려 노력 중 입니다.
-  -->
+- 기술블로그(코드공부방) 운영과 매일 코딩을 하려 노력 중 입니다.
 - 간단한 프로젝트를 **진행 중**입니다.
-  1. 코드스터디 블로그 : <a href="https://code-study.tistory.com/" target="_blank">코드스터디 블로그</a>
+  1. 코드공부방 블로그 : <a href="https://code-study.tistory.com/" target="_blank">코드공부방 블로그</a>
   2. 간단한 숫자맞추기(Up&amp;Down) 게임(**ing**) : <a href="https://simbyungki.github.io/updown/" target="_blank">updown</a> (<a href="https://github.com/simbyungki/updown" target="_blank">README</a>)
   3. 웹에 자주 사용되는 UI 모음(**ing**) : <a href="https://simbyungki.github.io/ui_modules/" target="_blank">ui_modules</a>
   4. 간단한 필요 대출액 계산기(**ing**) : <a href="https://simbyungki.github.io/mini_project/calculator/index.html" target="_blank">대출조회기</a>
